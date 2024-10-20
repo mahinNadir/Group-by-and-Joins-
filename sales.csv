@@ -1,0 +1,9 @@
+salesperson,region,product,amount
+Alice,North,Laptop,1000
+Bob,East,Phone,800
+Charlie,South,Laptop,1200
+David,West,Phone,900
+Alice,North,Phone,500
+Bob,East,Laptop,1100
+Charlie,South,Phone,600
+David,West,Laptop,1300
